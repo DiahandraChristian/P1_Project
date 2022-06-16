@@ -31,3 +31,4 @@ Pega Training Website <https://training.openspan.com/login>
 ![image](https://user-images.githubusercontent.com/104388361/174124553-a5eb6a1a-ab2d-4831-8778-cec3c56ed492.png)
 
 ## License
+- https://github.com/DiahandraChristian/P1_Project/blob/main/License
